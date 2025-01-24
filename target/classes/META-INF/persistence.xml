@@ -4,6 +4,8 @@
         <class>com.example.model.Libro</class>
         <class>com.example.model.Rivista</class>
         <class>com.example.model.Periodicita</class>
+        <class>com.example.model.Utente</class>
+        <class>com.example.model.Prestito</class>
 
         <!-- Configurazione della connessione al database -->
         <properties>
